@@ -43,13 +43,18 @@ This web app loads the saved models and performs inference only
 Web Interface Usage
 
   1) Paste:
+     
      a) Problem Description
+     
      b) Input Description
+     
      c) Output Description
 
   2) Click Predict Difficulty
   3) View:
+     
      a) Predicted Difficulty Class
+     
      b) Predicted Difficulty Score
 
 ⚠️ Note:
