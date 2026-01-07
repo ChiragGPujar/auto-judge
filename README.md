@@ -60,4 +60,6 @@ Web Interface Usage
 ⚠️ Note:
 The numerical difficulty score corresponds to the scale present in the training dataset and does not represent platform-specific ratings such as Codeforces scores.
 
-To View the Demo Video Download it to watch it fully.
+To View the Demo Video Download it to watch it fully or use the link:
+
+``` https://drive.google.com/file/d/16NXo2LxZjWUUCvy6zbNXxfw_kptE87US/view?usp=sharing ```
